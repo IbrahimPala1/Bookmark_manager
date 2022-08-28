@@ -6,3 +6,4 @@ gem 'pg'
 gem 'capybara', group: :test
 gem 'rspec', group: :test
 gem 'sinatra'
+
